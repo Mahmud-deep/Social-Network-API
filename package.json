@@ -1,7 +1,7 @@
 {
-  "name": "Social-Network",
+  "name": "social-network-api",
   "version": "1.0.0",
-  "description": "Module 18 Bootcamp NoSQL MongoDB - Social Network",
+  "description": "",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
