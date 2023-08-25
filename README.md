@@ -50,6 +50,11 @@ In addition to this, My walkthrough video should show the POST and DELETE routes
 
 ## Links
 
+https://github.com/Mahmud-deep/Social-Network-API
+
+https://mahmud-deep.github.io/Social-Network-API/
+
+https://drive.google.com/file/d/1f-WBCoN4R6DhnrR5EhbXB0ulyC7XDn6I/view
 
 ## Rivews
 
